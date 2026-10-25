@@ -1,0 +1,8 @@
+aiohttp
+aiogram
+PyYAML
+aiosql
+python-dotenv
+cryptography
+pytest
+pytest-asyncio

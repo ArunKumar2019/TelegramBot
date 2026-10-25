@@ -1,0 +1,9 @@
+bot:
+  mock_mode: true
+
+market:
+  refresh_interval_minutes: 1
+  tracked_strikes_each_side: 5
+
+alerts:
+  default_cooldown_minutes: 20
